@@ -4,7 +4,7 @@ Photowall is a very simple Python script which takes a directory of images,
 inserts them into a Sqlite database & spits out a mobile friendly 'social wall' of these images.
 
 It allows the user to add relevant links to each image by editing the sqlite database 
-(I sugest using [DB Browser for SQLite for editing](https://github.com/sqlitebrowser/sqlitebrowser) until somthing more 
+(I sugest using [DB Browser for SQLite for editing](https://github.com/sqlitebrowser/sqlitebrowser) until something more 
 substantial is built. 
 
 ## Configuration / Options
